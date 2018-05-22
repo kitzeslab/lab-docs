@@ -14,3 +14,7 @@ Desired output: YYYYMMDD_hhmmss.WAV
 
 ### Step 3: Date & time to directory structure
 #todo
+
+# TODO: split files
+# TODO: naming convention for split files
+# TODO: calling splitting script from python
