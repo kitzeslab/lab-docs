@@ -1,6 +1,8 @@
 ## Converting AudioMoth hexadecimal filenames to UTC date & time
 Written for OS X
 
+# TODO: Date, time, & card number
+
 ### Step 1: Hex to seconds after Linux epoch
 `for f in *.WAV; do HEXNUM=$(echo $f | cut -f 1 -d '.'); DECNAME=$(echo "ibase=16; $HEXNUM" | bc).WAV; mv -- $f $DECNAME; done`
 
