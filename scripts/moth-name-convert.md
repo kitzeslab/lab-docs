@@ -1,5 +1,4 @@
 ## Converting AudioMoth hexadecimal filenames to UTC date & time
-Written for OS X
 
 ### Step 1: Hex to seconds after Linux epoch
 Can be run directly from terminal:
