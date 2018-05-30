@@ -67,9 +67,12 @@ for FILE in *.WAV; do HEXNUM=$(echo $FILE | cut -f 1 -d '.'); DECNUM=$(echo "iba
 This is the script above.
 
 
-### Step 4: Date & time to directory structure
-# todo
+# TODO: potential next steps
+Date & time to directory structure
 
-# TODO: split files
-# TODO: naming convention for split files
-# TODO: calling splitting script from python
+Split files to decrease their length (split files should NOT be backed up--we should always retain
+original copies of the files)
+
+Name split files 
+
+Call splitting script from Python (we've had memory issues trying to use whole hourlong audio files in Python)
