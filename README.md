@@ -1,2 +1,3 @@
-# lab-admin
-Docs &amp; scripts for keeping my workplace's computing resources organized
+# hello!
+
+To see the lab help files, visit the [Wiki](https://github.com/rhine3/lab-admin/wiki)
