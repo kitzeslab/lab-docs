@@ -1,13 +1,18 @@
 '''
-# TODO: potential next steps
-Date & time to directory structure
+TODO: before using
+- EST/DST problems?
+- Test for SDC
+- Let user input field_data directory
+- TODOs in code
 
-Split files to decrease their length (split files should NOT be backed up--we should always retain
-original copies of the files)
-
-Name split files 
-
-Call splitting script from Python (we've had memory issues trying to use whole hourlong audio files in Python)
+TODO: potential next steps
+- Date & time to directory structure
+- Split files to decrease their length 
+  (split files should NOT be backed up--we should always retain
+  original copies of the files)
+- Name split files 
+- Call splitting script from Python 
+  (we've had memory issues trying to use whole hourlong audio files in Python)
 '''
                                                                                                                                                           
 from os.path import join, isdir, exists
