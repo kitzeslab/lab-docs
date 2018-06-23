@@ -4,6 +4,7 @@ TODO: before using
 - Test for SDC
 - Let user input field_data directory
 - TODOs in code
+- Add other renaming options: rename w/o transfer, rename SDC files (current function only for MSDs)
 
 TODO: potential next steps
 - Date & time to directory structure
