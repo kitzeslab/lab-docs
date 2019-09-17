@@ -7,8 +7,7 @@ This website contains helpful documentation and scripts for maintaining the comp
 #### Setup materials
 * [General setup](https://github.com/rhine3/lab-admin/wiki/New-lab-member-setup)
 * [Computing setup](https://github.com/rhine3/lab-admin/wiki/Computing-setup)
-* [Robin setup](https://github.com/rhine3/lab-docs/wiki/Robin-setup)
-* [Robin maintenance](https://github.com/rhine3/lab-docs/wiki/Robin-maintenance)
+* [Robin](https://github.com/rhine3/lab-docs/wiki/Robin)
 
 #### Reference
 * [Using the shell](https://github.com/rhine3/lab-docs/wiki/Using-the-shell)
